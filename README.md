@@ -1,2 +1,2 @@
-## Vangrant project
-  This project shows how to use vagrant on virtualbox in our personal computer
+## Vagrant project
+  This project shows how to use vangrant in virtualbox using personal computer 
